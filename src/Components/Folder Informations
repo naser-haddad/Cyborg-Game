@@ -1,0 +1,7 @@
+## This Folder Contains The Components Of The Project Page
+
+## {Container} + {Button} + {Navitem} + {Search} + {SectionHeader} + {SectionWrapper} + {Card} + {GamingLibraryCard}
+
+## Each Folder Has An Extension: JS & CSS
+
+## This Folder Contains The "index.js" File That Exports All The Components

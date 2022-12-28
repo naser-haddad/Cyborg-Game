@@ -1,0 +1,47 @@
+.primary-button a{
+    font-size: 14px;
+    color: var(--color-light);
+    background-color: var(--color-primary);
+    padding: 12px 30px;
+    display: inline-block;
+    border-radius: 25px;
+    font-weight: var(--font-weight-primary);
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    transition: all .3s;
+    position: relative;
+    overflow: hidden;
+    margin-top: 10px;
+    
+}
+
+.primary-button a:hover{
+    background-color: var(--color-light);
+    color: var(--color-primary);
+}
+
+.secondary-button a{
+    font-size: 14px;
+    color: var(--color-light);
+    background-color: transparent;
+    border: 1px solid var(--color-primary);
+    padding: 12px 30px;
+    display: inline-block;
+    border-radius: var(--border-radius-primary);
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    transition: all .3s;
+    position: relative;
+    overflow: hidden;
+}
+
+.secondary-button a:hover{
+    border: 1px solid var(--color-primary);
+    color: var(--color-primary);
+}
+
+.FaDownload-icon{
+    color: green;
+    margin-left: 10px;
+    height: 16px;
+}

@@ -1,0 +1,45 @@
+.card-wrapper{
+    background-color: var(--color-dark);
+    border-radius: var(--border-radius-primary);
+    padding: calc(var(--padding-primary) / 2);
+}
+
+.most-popular-item{
+    flex: 1  20%;
+    margin: calc(var(--margin-primary) / 5);
+}
+.most-popular-item:hover{
+    background-color: var(--color-dark);
+    box-shadow: 2px 2px 16px var(--color-primary);
+    border-radius: var(--border-radius-primary);
+    display: inline-block;
+    transition: all .4s;
+}
+
+.most-popular-item-image{
+    width: 100%;
+    border-radius: var(--border-radius-primary);
+    margin-bottom: calc(var(--margin-primary) / 2);
+}
+
+.most-popular-item-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.most-popular-item-title{
+    font-size: 15px;
+    line-height: 1.5rem;
+}
+.FaStar{
+    color: orange;
+   margin-bottom: 5px;
+   margin-right: 6px;
+}
+.FaDownload{
+    color: green;
+     margin-right: 6px;
+}
+.FaDownload:hover{
+    color: rgb(2, 102, 2);
+}

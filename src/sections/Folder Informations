@@ -1,0 +1,8 @@
+## This Folder Contains The Sections Of The Project Page
+
+## {Header} + {Hero} + {Footer} + {MostPopular} + {GamingLibrary} ...
+
+## Each Folder Has An Extension: JS & CSS
+
+## This Folder Contains The "index.js" File That Exports All The Sections
+

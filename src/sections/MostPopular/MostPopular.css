@@ -1,0 +1,11 @@
+.section-header h4{
+    font-size: 36px;
+    font-weight: var(--font-weight-bold);
+}
+
+
+.most-popular-items{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

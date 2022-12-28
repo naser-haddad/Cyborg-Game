@@ -1,0 +1,9 @@
+.primary-button-navbar {
+    color: var(--color-dark);
+    background-color: var(--color-dark);
+    border-radius: 25px var(--border-radius-primary);
+    display:inline-table;
+}
+.nav-link{
+color: var(--color-light);
+}

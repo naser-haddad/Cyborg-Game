@@ -1,0 +1,15 @@
+.container p {
+text-align: center;
+padding: calc(var(--padding-primary) / 2);
+color: var(--color-gray);
+font-weight: var(--font-weight-primary);
+}
+
+.container p a {
+    color: var(--color-gray);
+    transition: all .3s;
+}
+
+.container p a:hover{
+color: var(--color-primary);
+}
