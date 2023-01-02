@@ -1,3 +1,8 @@
+# Cyborg_Game 
+![1672507374](https://user-images.githubusercontent.com/100985360/210193053-58f011e5-1cca-43fa-95e4-ae7434dd2cc2.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -41,7 +46,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-![1672507374](https://user-images.githubusercontent.com/100985360/210193053-58f011e5-1cca-43fa-95e4-ae7434dd2cc2.png)
+
 
 
 
