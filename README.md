@@ -7,10 +7,12 @@ I'm looking for your suggestions
 .
 .
 .
+
 My Linkedin account link is below:
 https://www.linkedin.com/in/nasr-haddad-a21ab4235/
 .
 .
 .
+
 A practical training application for the template found below:
 https://lnkd.in/dwMaGdrD
